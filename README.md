@@ -16,7 +16,7 @@ Installation
 Clone the Repository:
 
 bash
-git clone https://github.com/yourusername/store-management-system.git
+git clone https://github.com/Hamdaoui-Ali/Store-Management-System/tree/main
 cd store-management-system
 Set Up MySQL:
 
