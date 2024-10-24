@@ -43,9 +43,6 @@ To exit the application, choose the option to quit.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Contact
 For any inquiries or issues, please reach out to:
 alihamdaoui000@gmail.com
